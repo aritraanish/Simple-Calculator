@@ -4,7 +4,7 @@ root = Tk()
 
 root.title('Calculator')
 
-root.iconbitmap("D:/Else/Tkinter/Calculator/calc.ico")
+root.iconbitmap("calc.ico")
 
 e = Entry(root, width=55, borderwidth=5)
 e.grid(row = 0, columnspan=4, padx=20, pady=10)

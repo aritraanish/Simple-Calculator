@@ -65,7 +65,6 @@ def butpressplus():
 	mul = False
 	div = False
 	sub = False
-	# mul_number = first_num
 	print('printing from butpressplus ' + str(first_num))
 
 
@@ -130,7 +129,6 @@ def butpressmul():
 	mul = True
 	div = False
 	sub = False
-	# first_num = mul_number
 	print('printing from butpressmul ' + str(mul_number))
 
 
@@ -160,7 +158,6 @@ def butpressdiv():
 	mul = False
 	div = True
 	sub = False
-	# first_num = mul_number
 	print('printing from butpressdiv ' + str(div_number))
 
 
